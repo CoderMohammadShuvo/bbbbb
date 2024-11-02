@@ -2,6 +2,7 @@
 
 module.exports = {
   reactStrictMode: true,
+  exportTrailingSlash: true,
   swcMinify: true,
   // experimental: {
   //   // Required:
